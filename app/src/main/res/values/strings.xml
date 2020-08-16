@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">IT19029900</string>
+    <string name="add">ADD</string>
+    <string name="feedback">Feedback</string>
+    <string name="todo">TODO</string>
+    <string name="value">price</string>
+    <string name="title">Title</string>
+    <string name="cart">cart</string>
+    <string name="Cart_title">your order</string>
+    <string name="Cart_image">Cart_image</string>
+    <string name="item_no1">item 01</string>
+    <string name="price_01">Price 01</string>
+    <string name="item_no2">item 02</string>
+    <string name="price_02">price 02</string>
+    <string name="item_no3">item 03</string>
+    <string name="Price_03">Price 03</string>
+    <string name="totle_tag">totle</string>
+    <string name="totle_price">totle price</string>
+    <string name="Remove_List">Remove List</string>
+    <string name="Pay">pay</string>
+    <string name="Admin">Admin</string>
+    <string name="admin_book_name">Book name</string>
+    <string name="admin_book_price">Book price</string>
+    <string name="admin_book_name_text" />
+    <string name="Admin_book_price_text" />
+    <string name="Admin_image">image</string>
+    <string name="Admin_add">Add</string>
+
+</resources>
